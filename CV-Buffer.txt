@@ -1,0 +1,29 @@
+
+<h3> Biography<\h3>
+I am currently a PhD candidate at the <a  href="https://jhc.sjtu.edu.cn/"> John Hopcroft Center for Computer Science</a> of <a href="https://www.sjtu.edu.cn/">SJTU</a>.
+
+I received my bachelor degree from <a href="https://www.neu.cn/">Northeastern University</a> in 2020.  
+
+<h3> Research</h3>
+Formal verification: 
+
+
+<Project>
+Compiler Correctness for Concurrent Programs;
+
+Denotational-Semantics-based Compiler Correctness;
+
+<Teaching Assitent>
+
+
+
+<News>
+
+Doctoral qualification Defense. [slides]
+JHC <Theory lunch>; topic: introduction to weak memory consistency [slides];
+
+Group Report:  
+
+
+多一些技术性的文档；
+个人阅读文章的笔记；
